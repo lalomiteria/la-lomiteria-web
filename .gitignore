@@ -1,0 +1,30 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas temporales
+temp/
+tmp/
+
+# Logs
+*.log
+
+# Configuración local
+.env
+.env.local
+
+# Editores
+.vscode/
+.idea/
+
+# Dependencias futuras
+node_modules/
+
+# Archivos generados
+dist/
+build/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
